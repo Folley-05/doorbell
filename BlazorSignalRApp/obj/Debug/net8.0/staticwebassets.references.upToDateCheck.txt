@@ -1,0 +1,17 @@
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
