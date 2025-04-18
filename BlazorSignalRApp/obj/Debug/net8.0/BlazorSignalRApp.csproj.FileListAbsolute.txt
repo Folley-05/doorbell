@@ -95,3 +95,4 @@ C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp\bin\Debug\net8.0\
 C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
 C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp\bin\Debug\net8.0\System.Web.WebPages.dll
 C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp\obj\Debug\net8.0\BlazorSignalRApp.sourcelink.json

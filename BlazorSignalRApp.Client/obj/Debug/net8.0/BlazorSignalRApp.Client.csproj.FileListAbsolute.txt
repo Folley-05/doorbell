@@ -1071,9 +1071,6 @@ C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\
 C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\compressed\jt36pz0sjo-tptq2av103.gz
 C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\compressed\qzs4lv87ao-lfu7j35m59.gz
 C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\compressed\sennh4wprk-oyz0vx2fzb.gz
-C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\compressed\ode9tygryg-bateuvytyp.gz
-C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\compressed\c7n0yyprkr-fyu29cx3on.gz
-C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\compressed\xteuqltjvz-kwcvmk3107.gz
 C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -1089,3 +1086,7 @@ C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\
 C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\refint\BlazorSignalRApp.Client.dll
 C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\BlazorSignalRApp.Client.pdb
 C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\ref\BlazorSignalRApp.Client.dll
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\BlazorSignalRApp.Client.sourcelink.json
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\compressed\ode9tygryg-73ua8gk6in.gz
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\compressed\c7n0yyprkr-w6dit77jr5.gz
+C:\Users\Folley\source\repos\BlazorSignalRApp\BlazorSignalRApp.Client\obj\Debug\net8.0\compressed\xteuqltjvz-us75tpcnol.gz

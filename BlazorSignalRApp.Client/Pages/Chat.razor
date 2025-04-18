@@ -1,6 +1,7 @@
 ﻿@page "/chat"
 @rendermode InteractiveWebAssembly
 @using Microsoft.AspNetCore.SignalR.Client
+@using System.Net.Http
 @inject NavigationManager Navigation
 @implements IAsyncDisposable
 
@@ -19,6 +20,18 @@
     </label>
 </div>
 <button @onclick="Send" disabled="@(!IsConnected)">Send</button>
+<button class="btn btn-warning" @onclick="ToggleDoNotDisturb">
+    @(doNotDisturb ? "Turn on all notification" : "Turn off all notification")
+</button>
+<button class="btn btn-warning" @onclick="ToggleDoNotDisturbBell">
+    @(doNotDisturbBell ? "Turn on bell notification" : "Turn off bell notification")
+</button>
+<button class="btn btn-warning" @onclick="ToggleDoNotDisturbApi">
+    @(apiDisturb ? "Turn on bell on api" : "Turn off bell on api")
+    @(loading ? " ..." : "")
+</button>
+
+
 
 <hr>
 
@@ -34,6 +47,10 @@
     private List<string> messages = [];
     private string? userInput;
     private string? messageInput;
+    private bool doNotDisturb = false;
+    private bool doNotDisturbBell = false;
+    private bool apiDisturb = false;
+    private bool loading = false;
 
     protected override async Task OnInitializedAsync()
     {
@@ -43,9 +60,39 @@
 
         hubConnection.On<string, string>("ReceiveMessage", (user, message) =>
         {
-            var encodedMsg = $"{user}: {message}";
-            messages.Add(encodedMsg);
-            InvokeAsync(StateHasChanged);
+            if(user==userInput)
+            {
+                var encodedMsg = $"{user}: {message}";
+                messages.Add(encodedMsg);
+                InvokeAsync(StateHasChanged);
+                return;
+
+            }
+            switch(user)
+            {
+
+                case "bell":
+                    if (doNotDisturbBell) break;
+                    else
+                    {
+                        var encodedMsg = $"{user}: {message}";
+                        messages.Add(encodedMsg);
+                        InvokeAsync(StateHasChanged);
+                        break;
+
+                    }
+                default :
+                    if (doNotDisturb) break;
+                    else
+                    {
+                        var encodedMsg = $"{user}: {message}";
+                        messages.Add(encodedMsg);
+                        InvokeAsync(StateHasChanged);
+                        break;
+
+                    }
+            }
+            if (doNotDisturb) return;
         });
 
         await hubConnection.StartAsync();
@@ -58,6 +105,37 @@
             await hubConnection.SendAsync("SendMessage", userInput, messageInput);
         }
     }
+
+    private void ToggleDoNotDisturb()
+    {
+        doNotDisturb = !doNotDisturb;
+    }
+
+    private void ToggleDoNotDisturbBell()
+    {
+        doNotDisturbBell = !doNotDisturbBell;
+    }
+
+    private async Task ToggleDoNotDisturbApi()
+    {
+        loading = true;
+        try
+        {
+            using var client = new HttpClient();
+            var url = "http://localhost:5000/api/Socket/dnd";
+            var response = await client.GetAsync(url);
+            response.EnsureSuccessStatusCode();
+            Console.WriteLine("Switching dnd mode success");
+            apiDisturb = !apiDisturb;
+        }
+        catch (System.Exception e)
+        {
+            Console.WriteLine("exception on qwitching dnd mode");
+            Console.WriteLine(e);
+        }
+        loading = false;
+    }
+
 
     public bool IsConnected =>
         hubConnection?.State == HubConnectionState.Connected;

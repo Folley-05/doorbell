@@ -34,5 +34,15 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SocketController",
+    "Method": "SetDoNotDisturb",
+    "RelativePath": "api/Socket/dnd",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

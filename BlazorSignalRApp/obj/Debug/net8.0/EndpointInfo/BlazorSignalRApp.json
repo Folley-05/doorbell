@@ -57,6 +57,18 @@
           }
         }
       }
+    },
+    "/api/Socket/dnd": {
+      "get": {
+        "tags": [
+          "Socket"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {

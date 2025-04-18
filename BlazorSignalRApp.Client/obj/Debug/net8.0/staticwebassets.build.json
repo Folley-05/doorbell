@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4ThnJ1Sgyqo8Ry6MxnzGsyMjAFS1u/Ffia8887x1Ub4=",
+  "Hash": "DPoi8qHeBwgEclodfUWv5iTH5QkGVUCSyvyXJuGPNd8=",
   "Source": "BlazorSignalRApp.Client",
   "BasePath": "/",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "kwcvmk3107",
-      "Integrity": "7JZJQ0YzNBDBRslCJYcYEMIUBXJVyPO/h2U08p7Lr70=",
+      "Fingerprint": "us75tpcnol",
+      "Integrity": "QojSehsgIjuP7MiH//YbI4CbG/OHZ/QXNDVkwYI9gFo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "fyu29cx3on",
-      "Integrity": "NzKIuLOMoTh66xdslVJ4KWDJ+2MXIhMuozPUe5vZTqs=",
+      "Fingerprint": "w6dit77jr5",
+      "Integrity": "SPwlxzT15WdtbAGfDxWqRsM+ISCZ81js0iz/57uLye4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\BlazorSignalRApp.Client.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "bateuvytyp",
-      "Integrity": "w6VYVqrIQmAEaRWzIq3yR7YmEDfjKDtl0UEmRq/N4+M=",
+      "Fingerprint": "73ua8gk6in",
+      "Integrity": "LUGQoC3jXlr5IVPTUa8Ch0D+XKHhFy90Qgm2bmGf1pA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\webcil\\BlazorSignalRApp.Client.wasm"
@@ -5981,7 +5981,7 @@
       "OriginalItemSpec": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Runtime.Serialization.Formatters.wasm"
     },
     {
-      "Identity": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\c7n0yyprkr-fyu29cx3on.gz",
+      "Identity": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\c7n0yyprkr-w6dit77jr5.gz",
       "SourceId": "BlazorSignalRApp.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -5995,8 +5995,8 @@
       "RelatedAsset": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\BlazorSignalRApp.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ldteel9tpa",
-      "Integrity": "OZ42e914d70VtfBzA1aIb43DRMU+jVL/8suU+2wBf2M=",
+      "Fingerprint": "7famoeqvsf",
+      "Integrity": "Q06V9ierzi9LfCW+m5iBpYs+fWZaXhASZ45fBwOeEuU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\BlazorSignalRApp.Client.pdb"
@@ -7619,7 +7619,7 @@
       "OriginalItemSpec": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.wasm"
     },
     {
-      "Identity": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\ode9tygryg-bateuvytyp.gz",
+      "Identity": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\ode9tygryg-73ua8gk6in.gz",
       "SourceId": "BlazorSignalRApp.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -7633,8 +7633,8 @@
       "RelatedAsset": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\BlazorSignalRApp.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vbll24zujz",
-      "Integrity": "O+F2/vliIKMAp/xmB1/YK2i33CX4BIcNwpynh32k9X0=",
+      "Fingerprint": "j1eg8eml6t",
+      "Integrity": "F0v+zRLk3fZy6o2NfaUCW/I2MUICx0hG0+RYkjW3qos=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\BlazorSignalRApp.Client.wasm"
@@ -8732,7 +8732,7 @@
       "OriginalItemSpec": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Data.Common.wasm"
     },
     {
-      "Identity": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\xteuqltjvz-kwcvmk3107.gz",
+      "Identity": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\xteuqltjvz-us75tpcnol.gz",
       "SourceId": "BlazorSignalRApp.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\",
@@ -8746,8 +8746,8 @@
       "RelatedAsset": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "v32fgpvd45",
-      "Integrity": "lQOtRvzFRcOnffHvANH4fzReJl6xwOBRgkT+gFkcLps=",
+      "Fingerprint": "o098mfpic5",
+      "Integrity": "WJ4tOUg6rYG7kuMTWExd181hczk/pZ7djwmHM43gxE4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -9151,11 +9151,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7JZJQ0YzNBDBRslCJYcYEMIUBXJVyPO/h2U08p7Lr70=\""
+          "Value": "\"QojSehsgIjuP7MiH//YbI4CbG/OHZ/QXNDVkwYI9gFo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 06:45:55 GMT"
+          "Value": "Fri, 18 Apr 2025 08:29:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9165,18 +9165,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7JZJQ0YzNBDBRslCJYcYEMIUBXJVyPO/h2U08p7Lr70="
+          "Value": "sha256-QojSehsgIjuP7MiH//YbI4CbG/OHZ/QXNDVkwYI9gFo="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\xteuqltjvz-kwcvmk3107.gz",
+      "AssetFile": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\xteuqltjvz-us75tpcnol.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000106507615"
+          "Quality": "0.000106496273"
         }
       ],
       "ResponseHeaders": [
@@ -9186,15 +9186,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9388"
+          "Value": "9389"
         },
         {
           "Name": "ETag",
-          "Value": "\"lQOtRvzFRcOnffHvANH4fzReJl6xwOBRgkT+gFkcLps=\""
+          "Value": "\"WJ4tOUg6rYG7kuMTWExd181hczk/pZ7djwmHM43gxE4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 09:44:18 GMT"
+          "Value": "Fri, 18 Apr 2025 08:27:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9214,19 +9214,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7JZJQ0YzNBDBRslCJYcYEMIUBXJVyPO/h2U08p7Lr70=\""
+          "Value": "W/\"QojSehsgIjuP7MiH//YbI4CbG/OHZ/QXNDVkwYI9gFo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7JZJQ0YzNBDBRslCJYcYEMIUBXJVyPO/h2U08p7Lr70="
+          "Value": "sha256-QojSehsgIjuP7MiH//YbI4CbG/OHZ/QXNDVkwYI9gFo="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\xteuqltjvz-kwcvmk3107.gz",
+      "AssetFile": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\xteuqltjvz-us75tpcnol.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9235,7 +9235,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9388"
+          "Value": "9389"
         },
         {
           "Name": "Content-Type",
@@ -9243,11 +9243,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lQOtRvzFRcOnffHvANH4fzReJl6xwOBRgkT+gFkcLps=\""
+          "Value": "\"WJ4tOUg6rYG7kuMTWExd181hczk/pZ7djwmHM43gxE4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 09:44:18 GMT"
+          "Value": "Fri, 18 Apr 2025 08:27:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9265,7 +9265,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lQOtRvzFRcOnffHvANH4fzReJl6xwOBRgkT+gFkcLps="
+          "Value": "sha256-WJ4tOUg6rYG7kuMTWExd181hczk/pZ7djwmHM43gxE4="
         }
       ]
     },
@@ -9417,7 +9417,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19148"
+          "Value": "21436"
         },
         {
           "Name": "Content-Type",
@@ -9425,11 +9425,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NzKIuLOMoTh66xdslVJ4KWDJ+2MXIhMuozPUe5vZTqs=\""
+          "Value": "\"SPwlxzT15WdtbAGfDxWqRsM+ISCZ81js0iz/57uLye4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 09:44:14 GMT"
+          "Value": "Fri, 18 Apr 2025 08:29:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9439,18 +9439,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NzKIuLOMoTh66xdslVJ4KWDJ+2MXIhMuozPUe5vZTqs="
+          "Value": "sha256-SPwlxzT15WdtbAGfDxWqRsM+ISCZ81js0iz/57uLye4="
         }
       ]
     },
     {
       "Route": "_framework/BlazorSignalRApp.Client.pdb",
-      "AssetFile": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\c7n0yyprkr-fyu29cx3on.gz",
+      "AssetFile": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\c7n0yyprkr-w6dit77jr5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080612656"
+          "Quality": "0.000069969214"
         }
       ],
       "ResponseHeaders": [
@@ -9460,15 +9460,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12404"
+          "Value": "14291"
         },
         {
           "Name": "ETag",
-          "Value": "\"OZ42e914d70VtfBzA1aIb43DRMU+jVL/8suU+2wBf2M=\""
+          "Value": "\"Q06V9ierzi9LfCW+m5iBpYs+fWZaXhASZ45fBwOeEuU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 09:44:14 GMT"
+          "Value": "Fri, 18 Apr 2025 08:27:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9488,19 +9488,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NzKIuLOMoTh66xdslVJ4KWDJ+2MXIhMuozPUe5vZTqs=\""
+          "Value": "W/\"SPwlxzT15WdtbAGfDxWqRsM+ISCZ81js0iz/57uLye4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NzKIuLOMoTh66xdslVJ4KWDJ+2MXIhMuozPUe5vZTqs="
+          "Value": "sha256-SPwlxzT15WdtbAGfDxWqRsM+ISCZ81js0iz/57uLye4="
         }
       ]
     },
     {
       "Route": "_framework/BlazorSignalRApp.Client.pdb.gz",
-      "AssetFile": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\c7n0yyprkr-fyu29cx3on.gz",
+      "AssetFile": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\c7n0yyprkr-w6dit77jr5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9509,7 +9509,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12404"
+          "Value": "14291"
         },
         {
           "Name": "Content-Type",
@@ -9517,11 +9517,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OZ42e914d70VtfBzA1aIb43DRMU+jVL/8suU+2wBf2M=\""
+          "Value": "\"Q06V9ierzi9LfCW+m5iBpYs+fWZaXhASZ45fBwOeEuU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 09:44:14 GMT"
+          "Value": "Fri, 18 Apr 2025 08:27:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9539,7 +9539,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OZ42e914d70VtfBzA1aIb43DRMU+jVL/8suU+2wBf2M="
+          "Value": "sha256-Q06V9ierzi9LfCW+m5iBpYs+fWZaXhASZ45fBwOeEuU="
         }
       ]
     },
@@ -9554,7 +9554,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13589"
+          "Value": "16661"
         },
         {
           "Name": "Content-Type",
@@ -9562,11 +9562,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w6VYVqrIQmAEaRWzIq3yR7YmEDfjKDtl0UEmRq/N4+M=\""
+          "Value": "\"LUGQoC3jXlr5IVPTUa8Ch0D+XKHhFy90Qgm2bmGf1pA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 09:44:17 GMT"
+          "Value": "Fri, 18 Apr 2025 08:29:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9576,18 +9576,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-w6VYVqrIQmAEaRWzIq3yR7YmEDfjKDtl0UEmRq/N4+M="
+          "Value": "sha256-LUGQoC3jXlr5IVPTUa8Ch0D+XKHhFy90Qgm2bmGf1pA="
         }
       ]
     },
     {
       "Route": "_framework/BlazorSignalRApp.Client.wasm",
-      "AssetFile": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\ode9tygryg-bateuvytyp.gz",
+      "AssetFile": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\ode9tygryg-73ua8gk6in.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000163105529"
+          "Quality": "0.000136128505"
         }
       ],
       "ResponseHeaders": [
@@ -9597,15 +9597,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6130"
+          "Value": "7345"
         },
         {
           "Name": "ETag",
-          "Value": "\"O+F2/vliIKMAp/xmB1/YK2i33CX4BIcNwpynh32k9X0=\""
+          "Value": "\"F0v+zRLk3fZy6o2NfaUCW/I2MUICx0hG0+RYkjW3qos=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 09:44:17 GMT"
+          "Value": "Fri, 18 Apr 2025 08:27:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9625,19 +9625,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"w6VYVqrIQmAEaRWzIq3yR7YmEDfjKDtl0UEmRq/N4+M=\""
+          "Value": "W/\"LUGQoC3jXlr5IVPTUa8Ch0D+XKHhFy90Qgm2bmGf1pA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-w6VYVqrIQmAEaRWzIq3yR7YmEDfjKDtl0UEmRq/N4+M="
+          "Value": "sha256-LUGQoC3jXlr5IVPTUa8Ch0D+XKHhFy90Qgm2bmGf1pA="
         }
       ]
     },
     {
       "Route": "_framework/BlazorSignalRApp.Client.wasm.gz",
-      "AssetFile": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\ode9tygryg-bateuvytyp.gz",
+      "AssetFile": "C:\\Users\\Folley\\source\\repos\\BlazorSignalRApp\\BlazorSignalRApp.Client\\obj\\Debug\\net8.0\\compressed\\ode9tygryg-73ua8gk6in.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9646,7 +9646,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6130"
+          "Value": "7345"
         },
         {
           "Name": "Content-Type",
@@ -9654,11 +9654,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"O+F2/vliIKMAp/xmB1/YK2i33CX4BIcNwpynh32k9X0=\""
+          "Value": "\"F0v+zRLk3fZy6o2NfaUCW/I2MUICx0hG0+RYkjW3qos=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 15 Apr 2025 09:44:17 GMT"
+          "Value": "Fri, 18 Apr 2025 08:27:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9676,7 +9676,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-O+F2/vliIKMAp/xmB1/YK2i33CX4BIcNwpynh32k9X0="
+          "Value": "sha256-F0v+zRLk3fZy6o2NfaUCW/I2MUICx0hG0+RYkjW3qos="
         }
       ]
     },
